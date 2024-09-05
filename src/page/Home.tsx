@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Hero from '../component/Hero'
 import Achievements from '../component/Achievements'
 import Participation from '../component/Participation'

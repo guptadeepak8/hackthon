@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ai from '../assets/icons/ai.svg'
 import person from '../assets/icons/person.svg'
 import robot from '../assets/icons/robot.svg'

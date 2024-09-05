@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ParticipationCard from './ParticipationCard'
 import notebook from '../assets/icons/notebook.svg'
 import vector from '../assets/icons/Vector.svg'

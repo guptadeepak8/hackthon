@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import butterfly from '../assets/images/butterfly.png';
 import imagefill from '../assets/icons/imagefill.svg';
 import { ArrowRight } from 'lucide-react';

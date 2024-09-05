@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import ChallengesCard from "./ChallengeCard";
 import { Challenge } from "../type/types";
 

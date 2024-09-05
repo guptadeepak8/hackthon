@@ -1,5 +1,5 @@
 import { Clock } from 'lucide-react'
-import React from 'react'
+
 import level from '../assets/icons/skilllevel.svg'
 import { useNavigate } from 'react-router-dom'
 
